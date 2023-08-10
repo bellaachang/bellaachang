@@ -1,4 +1,4 @@
-#### Hi 👋 I'm Bella! I am an aspiring **data scientist** who loves :bar_chart: *analysis of real-world problems*, :coffee: *coffee*, and 🧩 *jigsaw puzzles*. Nice to meet you! :D
+#### Hi 👋 I'm Bella! I am an aspiring **data analyst** who loves :bar_chart: *analysis of real-world problems*, :coffee: *coffee*, and 🧩 *jigsaw puzzles*. Nice to meet you! :D
 
 - 🐻 I am currently studying Data Science with an emphasis in Cognition and a minor in Public Policy at the University of California, Berkeley.
 - 🌱 I see data as a powerful tool which can help to explain complex problems and bolster communities and people. I hope to continue advancing this understanding throughout my career.
