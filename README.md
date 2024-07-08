@@ -6,4 +6,4 @@
 - ☁️ Outside of school, I love to run (recently ran the San Francisco Golden Gate Half Marathon)! & bake (my best creation has been a homemade raspberry soufflé). I love to read too; currently going through "An Anthropocene Reviewed" by John Green.
 - 📫 Please feel free to email me at ic2664@nyu.edu with any questions.
 
-💖 Hope you have a lovely day!
+Hope you have a lovely day!
