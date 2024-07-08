@@ -4,6 +4,6 @@
 - 🌱 I see data as a powerful tool which can help to explain complex problems and bolster communities and people. I hope to continue advancing this understanding throughout my career.
 - ⚡️ My coursework has led me to understand that data has the power to make an impact in any field. I am particularly interested in using AI-powered techniques to understand human thinking and behavior, as well as make equal-access education! I am also passionate about education in CS/DS, especially for younger people, which has led to my vast experiences as tutors and TAs at Berkeley, as well as a summer course instructor at the UW Robinson Center for 7th-10th graders breaking into the tech field.
 - ☁️ Outside of school, I love to run (recently ran the San Francisco Golden Gate Half Marathon)! & bake (my best creation has been a homemade raspberry soufflé). I love to read too; currently going through "An Anthropocene Reviewed" by John Green.
-- 📫 Please feel free to email me at bellachang@berkeley.edu with any questions.
+- 📫 Please feel free to email me at ic2664@nyu.edu with any questions.
 
 💖 Hope you have a lovely day!
